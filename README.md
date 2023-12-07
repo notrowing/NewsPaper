@@ -13,6 +13,6 @@
 -  python 
 
 ## 📖 정리 
-1. 전자신문 뉴스 크롤링하기 1. 수집, 가공 및 처리 [링크] (https://notrowing.tistory.com/3)
-3. 전자신문 뉴스 크롤링하기 2. 통계분석 [링크] (https://notrowing.tistory.com/3?category=1126870)
-4. 전자신문 뉴스 크롤링하기 3. 시각화 [링크] (https://notrowing.tistory.com/4?category=1126870)  
+1. 전자신문 뉴스 크롤링하기 1. 수집, 가공 및 처리 [링크] https://notrowing.tistory.com/3
+3. 전자신문 뉴스 크롤링하기 2. 통계분석 [링크] https://notrowing.tistory.com/3?category=1126870
+4. 전자신문 뉴스 크롤링하기 3. 시각화 [링크] https://notrowing.tistory.com/4?category=1126870  
